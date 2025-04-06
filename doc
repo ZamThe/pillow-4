@@ -1,0 +1,2 @@
+>>> import docx
+>>> print("python-docx importado correctamente")
